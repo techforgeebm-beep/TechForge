@@ -1,3 +1,13 @@
+HEAD
 git add .
 git commit -m "he cambiado"
 git push origin main
+
+HEAD
+Cualquier cosa
+
+Cambio el 17 sale, entra 21
+rama
+
+Cambio el 17 sale, entra 21
+6d1f835b9dec1865b514a653141380b80c87b7c2
