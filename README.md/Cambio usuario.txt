@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+Cualquier cosa
+=======
+Cambio el 17 sale, entra 21
+>>>>>>> rama
+
 Cambio el 17 sale, entra 21
